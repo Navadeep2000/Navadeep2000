@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navadeep2000
-- 👀 I’m interested in Python, OpenCV, IoT, Astrophysics, Gaming for now. 
-- 🌱 I’m currently learning OpenCV with Python to make a few projects with it.
-- 🪐 Also, very much interested in figuring out how this universe works.
+- 👀 I’m interested in Python, OpenCV, IoT, ML, AI, Astrophysics and Gaming for now. 
+- 🌱 I’m currently learning Machine Learning with Python and getting involved with a few projects.
+- 🪐 Also, very much interested in figuring out how this Universe works.
 - 👣 Trying to create a path where I create distinction. 
 - 📫 Reach me on Linked in : https://www.linkedin.com/in/navadeep-komarraju-a893b5187
